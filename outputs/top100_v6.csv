@@ -1,0 +1,101 @@
+candidate_id,title,company,semantic_score,retrieval_score,production_score,evaluation_score,ai_score,negative_score,final_score
+CAND_0002025,Senior AI Engineer,Apple,0.646,0.96,0.4,0.3,0.64,0.0,0.7591
+CAND_0003977,Recommendation Systems Engineer,Google,0.701,0.64,0.16,0.1,0.48,0.0,0.6373
+CAND_0001610,Machine Learning Engineer,Dream11,0.558,0.88,0.24,0.2,0.56,0.0,0.6261
+CAND_0002120,ML Engineer,HCL,0.54,0.64,0.24,0.0,0.64,0.0,0.5785
+CAND_0004402,AI Research Engineer,Yellow.ai,0.603,0.4,0.4,0.1,0.48,0.0,0.5541
+CAND_0000981,ML Engineer,Wysa,0.57,0.48,0.24,0.0,0.4,0.0,0.5443
+CAND_0004972,ML Engineer,Glance,0.549,0.4,0.4,0.0,0.56,0.0,0.5385
+CAND_0001930,Senior Software Engineer (ML),Dream11,0.606,0.4,0.24,0.0,0.48,0.0,0.5334
+CAND_0001494,Data Scientist,Haptik,0.598,0.48,0.24,0.0,0.48,0.0,0.5294
+CAND_0003557,ML Engineer,Krutrim,0.549,0.4,0.24,0.0,0.32,0.0,0.5073
+CAND_0001131,ML Engineer,Wysa,0.476,0.4,0.32,0.1,0.4,0.0,0.5057
+CAND_0000165,AI Specialist,Mad Street Den,0.54,0.56,0.48,0.1,0.48,0.0,0.5026
+CAND_0002344,Senior Software Engineer (ML),upGrad,0.521,0.32,0.48,0.1,0.4,0.0,0.4996
+CAND_0003575,Data Scientist,Glance,0.451,0.56,0.48,0.0,0.48,0.0,0.4948
+CAND_0000273,ML Engineer,BYJU'S,0.556,0.32,0.24,0.0,0.4,0.0,0.4936
+CAND_0001651,Data Scientist,Meesho,0.479,0.4,0.4,0.0,0.4,0.0,0.4887
+CAND_0001707,Data Scientist,Vedantu,0.492,0.4,0.32,0.1,0.48,0.0,0.4884
+CAND_0003609,Senior Software Engineer (ML),Sarvam AI,0.48,0.32,0.4,0.0,0.4,0.0,0.4843
+CAND_0002037,ML Engineer,Locobuzz,0.465,0.4,0.24,0.0,0.4,0.0,0.4838
+CAND_0001056,Computer Vision Engineer,Genpact AI,0.444,0.56,0.48,0.1,0.48,0.0,0.476
+CAND_0002426,Data Scientist,Freshworks,0.549,0.48,0.24,0.0,0.4,0.0,0.4757
+CAND_0004534,Senior Software Engineer (ML),Glance,0.504,0.32,0.32,0.1,0.4,0.0,0.4709
+CAND_0003841,ML Engineer,Tech Mahindra,0.479,0.32,0.24,0.0,0.48,0.0,0.4702
+CAND_0000666,Data Scientist,PhonePe,0.393,0.4,0.32,0.1,0.48,0.0,0.468
+CAND_0000200,ML Engineer,Aganitha,0.457,0.32,0.32,0.0,0.4,0.0,0.4674
+CAND_0001405,Data Scientist,Infosys,0.469,0.48,0.4,0.0,0.4,0.0,0.467
+CAND_0000031,Recommendation Systems Engineer,Swiggy,0.68,0.8,0.24,0.5,0.48,0.25,0.4652
+CAND_0003791,ML Engineer,Meesho,0.386,0.24,0.48,0.1,0.32,0.0,0.4645
+CAND_0002610,Senior Software Engineer (ML),Aganitha,0.5,0.4,0.24,0.0,0.32,0.0,0.4578
+CAND_0004555,Senior Software Engineer (ML),Dream11,0.509,0.16,0.4,0.1,0.32,0.0,0.4498
+CAND_0001819,ML Engineer,Genpact AI,0.505,0.24,0.24,0.0,0.4,0.0,0.4496
+CAND_0001218,AI Specialist,Nykaa,0.61,0.4,0.24,0.0,0.48,0.0,0.4494
+CAND_0003506,Computer Vision Engineer,Dream11,0.485,0.4,0.4,0.0,0.72,0.0,0.442
+CAND_0001940,AI Research Engineer,Nykaa,0.377,0.32,0.48,0.1,0.32,0.0,0.4408
+CAND_0001151,Junior ML Engineer,Aganitha,0.544,0.32,0.48,0.0,0.4,0.0,0.4389
+CAND_0002526,Data Scientist,Wipro,0.416,0.4,0.24,0.0,0.24,0.0,0.4388
+CAND_0002793,AI Specialist,Meesho,0.548,0.32,0.32,0.0,0.32,0.0,0.4328
+CAND_0000422,AI Research Engineer,Haptik,0.46,0.24,0.24,0.0,0.24,0.0,0.4298
+CAND_0004628,AI Research Engineer,PharmEasy,0.436,0.32,0.4,0.0,0.16,0.0,0.4262
+CAND_0003756,Senior Software Engineer (ML),Nykaa,0.369,0.24,0.32,0.1,0.4,0.0,0.4258
+CAND_0001600,AI Specialist,InMobi,0.428,0.48,0.24,0.0,0.56,0.0,0.4234
+CAND_0004131,Junior ML Engineer,Flipkart,0.487,0.32,0.48,0.1,0.24,0.0,0.4233
+CAND_0001608,Senior Software Engineer (ML),Razorpay,0.474,0.16,0.24,0.0,0.32,0.0,0.4187
+CAND_0004848,Junior ML Engineer,Freshworks,0.484,0.4,0.4,0.0,0.32,0.0,0.4169
+CAND_0000705,AI Research Engineer,Zomato,0.473,0.16,0.32,0.1,0.32,0.0,0.4066
+CAND_0003100,AI Specialist,Verloop.io,0.493,0.32,0.4,0.1,0.24,0.0,0.4065
+CAND_0004112,Senior Software Engineer (ML),Zoho,0.398,0.16,0.4,0.0,0.16,0.0,0.4051
+CAND_0001126,Junior ML Engineer,Vedantu,0.486,0.4,0.24,0.0,0.4,0.0,0.4027
+CAND_0002770,AI Research Engineer,Wipro,0.403,0.08,0.48,0.1,0.32,0.0,0.3986
+CAND_0001302,Computer Vision Engineer,Paytm,0.394,0.32,0.4,0.0,0.4,0.0,0.3839
+CAND_0003290,Computer Vision Engineer,Verloop.io,0.432,0.32,0.24,0.0,0.32,0.0,0.3657
+CAND_0001808,ML Engineer,Yellow.ai,0.403,0.08,0.24,0.0,0.16,0.0,0.3541
+CAND_0001389,Senior Software Engineer (ML),Tech Mahindra,0.418,0.16,0.24,0.0,0.16,0.0,0.3488
+CAND_0003641,Analytics Engineer,Freshworks,0.388,0.32,0.24,0.0,0.16,0.0,0.3487
+CAND_0000665,Senior Software Engineer,PharmEasy,0.418,0.24,0.24,0.0,0.32,0.0,0.3472
+CAND_0000969,AI Specialist,Vedantu,0.377,0.24,0.32,0.1,0.24,0.0,0.3427
+CAND_0002270,Computer Vision Engineer,Glance,0.454,0.24,0.32,0.1,0.4,0.0,0.3413
+CAND_0003829,Data Engineer,Globex Inc,0.398,0.32,0.16,0.0,0.16,0.0,0.3403
+CAND_0001085,Senior Software Engineer,Acme Corp,0.409,0.32,0.08,0.0,0.16,0.0,0.3388
+CAND_0004087,Data Engineer,HCL,0.38,0.4,0.0,0.0,0.24,0.0,0.3385
+CAND_0003403,Software Engineer,BYJU'S,0.413,0.24,0.16,0.0,0.24,0.0,0.3316
+CAND_0004530,Backend Engineer,TCS,0.41,0.24,0.24,0.0,0.16,0.0,0.3265
+CAND_0002706,Junior ML Engineer,Zoho,0.409,0.16,0.24,0.0,0.24,0.0,0.3244
+CAND_0000859,Senior Software Engineer,Vedantu,0.365,0.24,0.24,0.0,0.08,0.0,0.3229
+CAND_0004553,.NET Developer,Flipkart,0.305,0.16,0.56,0.0,0.16,0.0,0.3183
+CAND_0003599,Computer Vision Engineer,Krutrim,0.339,0.16,0.32,0.1,0.32,0.0,0.3179
+CAND_0004852,Senior Data Engineer,Pied Piper,0.367,0.32,0.0,0.0,0.16,0.0,0.3149
+CAND_0000584,Analytics Engineer,Stark Industries,0.406,0.24,0.08,0.0,0.08,0.0,0.3147
+CAND_0004114,Senior Software Engineer,Unacademy,0.413,0.24,0.08,0.0,0.24,0.0,0.3144
+CAND_0000331,DevOps Engineer,Pied Piper,0.363,0.16,0.32,0.0,0.16,0.0,0.3133
+CAND_0003130,Senior Software Engineer,Pied Piper,0.451,0.16,0.08,0.0,0.16,0.0,0.3117
+CAND_0002884,Software Engineer,Hooli,0.419,0.24,0.0,0.0,0.16,0.0,0.3108
+CAND_0000623,Java Developer,Tech Mahindra,0.31,0.24,0.4,0.0,0.08,0.0,0.3077
+CAND_0000874,Senior Software Engineer,PhonePe,0.356,0.16,0.24,0.0,0.16,0.0,0.3066
+CAND_0001546,Mobile Developer,Cognizant,0.301,0.24,0.32,0.0,0.24,0.0,0.3059
+CAND_0004962,Senior Data Engineer,PharmEasy,0.369,0.24,0.24,0.0,0.08,0.0,0.3055
+CAND_0002969,Senior Data Engineer,Unacademy,0.382,0.24,0.08,0.0,0.08,0.0,0.3039
+CAND_0002876,Software Engineer,Mindtree,0.3,0.24,0.16,0.0,0.16,0.0,0.3029
+CAND_0002604,Senior Software Engineer,Hooli,0.389,0.16,0.16,0.0,0.24,0.0,0.3009
+CAND_0001731,DevOps Engineer,Dunder Mifflin,0.342,0.16,0.32,0.0,0.16,0.0,0.3008
+CAND_0002181,Cloud Engineer,CRED,0.375,0.16,0.4,0.0,0.08,0.0,0.3008
+CAND_0004658,Analytics Engineer,Nykaa,0.369,0.16,0.16,0.0,0.32,0.0,0.3006
+CAND_0004995,Senior Data Engineer,Capgemini,0.385,0.16,0.24,0.0,0.08,0.0,0.2983
+CAND_0001547,Software Engineer,Dream11,0.357,0.16,0.16,0.0,0.24,0.0,0.2971
+CAND_0003832,Frontend Engineer,HCL,0.31,0.16,0.4,0.0,0.16,0.0,0.2965
+CAND_0001330,Software Engineer,Mindtree,0.333,0.16,0.48,0.0,0.16,0.0,0.2958
+CAND_0000534,DevOps Engineer,Tech Mahindra,0.363,0.16,0.4,0.0,0.16,0.0,0.2957
+CAND_0001158,Data Engineer,PolicyBazaar,0.388,0.16,0.16,0.0,0.16,0.0,0.2956
+CAND_0001638,Analytics Engineer,Cognizant,0.33,0.16,0.32,0.0,0.24,0.0,0.2953
+CAND_0003680,Senior Software Engineer,Zomato,0.439,0.08,0.08,0.0,0.08,0.0,0.2953
+CAND_0001133,Software Engineer,Mphasis,0.373,0.24,0.16,0.0,0.08,0.0,0.2931
+CAND_0002223,Frontend Engineer,Swiggy,0.327,0.16,0.24,0.0,0.08,0.0,0.2924
+CAND_0000187,DevOps Engineer,Mphasis,0.311,0.16,0.4,0.0,0.16,0.0,0.2924
+CAND_0004718,Senior Data Engineer,Pied Piper,0.397,0.16,0.16,0.0,0.08,0.0,0.2921
+CAND_0000742,Mobile Developer,Tech Mahindra,0.334,0.16,0.32,0.0,0.16,0.0,0.2915
+CAND_0000782,Software Engineer,Tech Mahindra,0.311,0.24,0.4,0.0,0.08,0.0,0.2915
+CAND_0002491,Backend Engineer,Meesho,0.371,0.24,0.24,0.0,0.16,0.0,0.2911
+CAND_0001878,DevOps Engineer,Wayne Enterprises,0.282,0.16,0.4,0.0,0.16,0.0,0.2905
+CAND_0002361,Senior Data Engineer,Pied Piper,0.363,0.16,0.24,0.0,0.08,0.0,0.2903
+CAND_0000540,DevOps Engineer,Acme Corp,0.317,0.16,0.32,0.0,0.16,0.0,0.2901
